@@ -97,7 +97,7 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+<img width="1520" height="1202" alt="image" src="https://github.com/user-attachments/assets/db706cdf-23e4-444c-b028-6c416f40a1f7" />
 
 
 **RESULT:**
