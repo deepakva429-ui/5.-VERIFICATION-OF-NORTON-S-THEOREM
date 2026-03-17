@@ -25,19 +25,24 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="1381" height="726" alt="image" src="https://github.com/user-attachments/assets/6deef112-92ae-41c3-afa4-7eb71f234fd6" />
 
 
 **To measure RTh or RN**
+<img width="1361" height="739" alt="image" src="https://github.com/user-attachments/assets/13e0cff6-d0df-4914-9ace-e662dee36c29" />
 
 
 
 **To measure IN or Isc**
+<img width="1518" height="1010" alt="image" src="https://github.com/user-attachments/assets/195ab190-9dab-45b7-9b21-fbe82fb5d9b3" />
 
  
 **Thevenin’s equivalent circuit**
+<img width="1250" height="572" alt="image" src="https://github.com/user-attachments/assets/4a8f45b2-48e4-4872-bf47-60ea9110f14a" />
 
 
 **Norton’s equivalent circuit**
+<img width="1330" height="642" alt="image" src="https://github.com/user-attachments/assets/dcfd8533-708a-4b49-9a07-4d20c3196e03" />
 
 
 **PROCEDURE:**
@@ -70,23 +75,9 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**TABULAR COLUMN: 
+<img width="1169" height="1600" alt="image" src="https://github.com/user-attachments/assets/67cd4675-7489-470f-8068-01d69d3c0959" />
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
@@ -97,8 +88,10 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
-<img width="1520" height="1202" alt="image" src="https://github.com/user-attachments/assets/db706cdf-23e4-444c-b028-6c416f40a1f7" />
+<img width="1319" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb67d0c1-ecc6-4295-af61-7c8bbbe98577" />
 
+Marks Split up:
+<img width="1600" height="1023" alt="image" src="https://github.com/user-attachments/assets/89fc9d45-4a01-4ad4-b077-792da0d0cc1c" />
 
 **RESULT:**
 
