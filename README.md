@@ -25,24 +25,19 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
-<img width="1381" height="726" alt="image" src="https://github.com/user-attachments/assets/6deef112-92ae-41c3-afa4-7eb71f234fd6" />
-
+<img width="1600" height="909" alt="image" src="https://github.com/user-attachments/assets/2e03e635-dfa7-47d3-aea8-f35142c3287f" />
 
 **To measure RTh or RN**
-<img width="1361" height="739" alt="image" src="https://github.com/user-attachments/assets/13e0cff6-d0df-4914-9ace-e662dee36c29" />
-
-
+<img width="1600" height="743" alt="image" src="https://github.com/user-attachments/assets/5e532839-d2b1-4ad1-8057-329fb18b5152" />
 
 **To measure IN or Isc**
-<img width="1518" height="1010" alt="image" src="https://github.com/user-attachments/assets/195ab190-9dab-45b7-9b21-fbe82fb5d9b3" />
-
+<img width="1600" height="1027" alt="image" src="https://github.com/user-attachments/assets/ab9f6589-aa86-4117-930a-fa322a774c29" />
  
 **Thevenin’s equivalent circuit**
-<img width="1250" height="572" alt="image" src="https://github.com/user-attachments/assets/4a8f45b2-48e4-4872-bf47-60ea9110f14a" />
-
+<img width="1600" height="657" alt="image" src="https://github.com/user-attachments/assets/fb5ffd01-c0e0-4d3c-bdee-b9757b51ea4f" />
 
 **Norton’s equivalent circuit**
-<img width="1330" height="642" alt="image" src="https://github.com/user-attachments/assets/dcfd8533-708a-4b49-9a07-4d20c3196e03" />
+<img width="1600" height="662" alt="image" src="https://github.com/user-attachments/assets/10f6c02f-9a87-4e6d-9f34-e7f55a5f1a28" />
 
 
 **PROCEDURE:**
@@ -76,7 +71,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 
-<img width="1169" height="1600" alt="image" src="https://github.com/user-attachments/assets/67cd4675-7489-470f-8068-01d69d3c0959" />
+<img width="1370" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2f38499-0473-4f15-895b-bd36a8898d6a" />
 
 	
 **MODEL CALCULATION:**
@@ -88,10 +83,11 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
-<img width="1319" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb67d0c1-ecc6-4295-af61-7c8bbbe98577" />
+<img width="1477" height="1600" alt="image" src="https://github.com/user-attachments/assets/571a65f1-542c-49ad-9d08-c73261621b59" />
+<img width="916" height="1527" alt="image" src="https://github.com/user-attachments/assets/8057aebb-ae93-48c6-977f-8012765bc14b" />
 
 Marks Split up:
-<img width="1600" height="1023" alt="image" src="https://github.com/user-attachments/assets/89fc9d45-4a01-4ad4-b077-792da0d0cc1c" />
+<img width="1600" height="684" alt="image" src="https://github.com/user-attachments/assets/0225f36c-a5a4-4dc6-9a4b-6d96e24cf67b" />
 
 **RESULT:**
 
